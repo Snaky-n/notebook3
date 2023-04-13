@@ -1,0 +1,8 @@
+{
+  "database": {
+    "name": "notes.db"
+  },
+  "storage": {
+    "directory": "attachments"
+  }
+}
